@@ -1,0 +1,10 @@
+D:\Pemrograman Lanjut\Minggu3\Tugas 3.2\Tugas 3.2\bin\Debug\Tugas 3.2.exe.config
+D:\Pemrograman Lanjut\Minggu3\Tugas 3.2\Tugas 3.2\bin\Debug\Tugas 3.2.exe
+D:\Pemrograman Lanjut\Minggu3\Tugas 3.2\Tugas 3.2\bin\Debug\Tugas 3.2.pdb
+D:\Pemrograman Lanjut\Minggu3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.csproj.AssemblyReference.cache
+D:\Pemrograman Lanjut\Minggu3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas_3._2.frmTugasTiga2.resources
+D:\Pemrograman Lanjut\Minggu3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas_3._2.Properties.Resources.resources
+D:\Pemrograman Lanjut\Minggu3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.csproj.GenerateResource.cache
+D:\Pemrograman Lanjut\Minggu3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.csproj.CoreCompileInputs.cache
+D:\Pemrograman Lanjut\Minggu3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.exe
+D:\Pemrograman Lanjut\Minggu3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.pdb
